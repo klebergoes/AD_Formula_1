@@ -20,9 +20,9 @@ A base de dados da Fórmula 1 contém um total de 859 pilotos cadastrados, mas n
 
 ## Tecnologias Utilizadas
 
-**-	Linguagem:** Python;
-**-	Bibliotecas:** Pandas, Matplotlib, Seaborn, NumPy, Kagglehub, Os, Json e Warnings;
-**-	Ferramentas:** Google Colab.
+**-    Linguagem:** Python;
+**-    Bibliotecas:** Pandas, Matplotlib, Seaborn, NumPy, Kagglehub, Os, Json e Warnings;
+**-    Ferramentas:** Google Colab.
 
 
 ## Estrutura do Projeto
