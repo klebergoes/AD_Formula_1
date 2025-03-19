@@ -1,4 +1,4 @@
-# Projeto com dados abertos da História do Campeonato Mundial de Fórmula 1 (1950-2024)
+# Análise de Performance dos Pilotos Ativos da Fórmula 1
 
 ## Desafio / Problema
 
