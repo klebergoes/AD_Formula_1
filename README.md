@@ -39,7 +39,7 @@ A base de dados da Fórmula 1 contém um total de 859 pilotos cadastrados, mas n
     -   Driver_Details: Inclui informações abrangentes sobre os pilotos, como detalhes pessoais, estatísticas de carreira e conquistas:
         -   driverId: Identificador exclusivo para o motorista;
         -   Tipo de Dado: Inteiro
-       -   driverRef: Nome de referência para o driver;
+        -   driverRef: Nome de referência para o driver;
         -   Tipo de Dado: String
     -   Race_Results: Fornece resultados detalhados de cada corrida, incluindo posições finais, pontos ganhos e outras métricas importantes:
        -   resultId: Identificador para o resultado da corrida;
