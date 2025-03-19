@@ -102,7 +102,7 @@ A base de dados da Fórmula 1 contém um total de 859 pilotos cadastrados, mas n
 
 Dos 20 pilotos escalados para a temporada de 2025, 16 possuem histórico de corrida. A análise será feita com base nos pilotos com maior índice de vitórias (aproveitamento), que é a quantidade de corridas que o piloto participou dividida pela quantidade de vezes que ficou em primeiro lugar:
 
-*Inserir imagem da Triagem dos pilotos*
+![Image](https://github.com/user-attachments/assets/7279a4b8-2f81-48ec-9b0d-b3e787f31041)
 
 Vamos manter o estudo apenas nos pilotos que estão liderando o ranking de índice de vitórias: 
 
@@ -115,7 +115,7 @@ Vamos entender quem possui o melhor desempenho em seus históricos de corrida.
 
 Análise detalhada para verificar a presença de outliers, examinar a distribuição dos dados e identificar a localização do valor central, que representa o ponto de concentração principal dos dados:
 
-*Inserir imagem da Medidas Separatrizes e de Tendencia Central*
+![Image](https://github.com/user-attachments/assets/6697cc21-eec3-4d8f-8cc7-f9b4eae34e4a)
 
 Perceba que não temos outlier, a média de pontos na história de Max Verstappen é levemente mais alta que a de Hamilton.
 
@@ -130,7 +130,7 @@ Max Verstappen leva vantagem com relação à média de pontos.
 
 Avaliação da dispersão das pontuações em relação à média aritmética, com o objetivo de compreender o grau de variabilidade dos dados. Quanto maior o valor da dispersão, maior a dispersão dos pontos em torno da média, indicando uma maior heterogeneidade nos resultados:
 
-*Inserir imagem da Medidas de Dispersão ou Variabilidade*
+![Image](https://github.com/user-attachments/assets/7abd8ad4-3f14-4cd5-bab5-d36ec33ba35e)
 
 Hamilton possui um desvio padrão de 8.87 pontos, enquanto Max Verstappen tem um desvio padrão de 9.59 pontos.
 
@@ -147,7 +147,7 @@ Isso reforça que Hamilton mantém uma performance mais uniforme ao longo das co
 
 Análise detalhada para identificar se existe uma tendência consistente na evolução da média das pontuações ao longo do tempo, considerando possíveis padrões ou variações significativas:
 
-*Inserir imagem da Medidas de Série temporal*
+![Image](https://github.com/user-attachments/assets/1360db8d-583d-4acb-aefe-686d758986ef)
 
 Ao avaliar a evolução das corridas ao longo dos anos para os dois pilotos, percebe-se que ambos apresentaram crescimento na média de pontos. No entanto, Hamilton começou a ter uma queda em sua performance a partir do período de 2019-2020.
 
