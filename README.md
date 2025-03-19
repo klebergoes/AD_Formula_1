@@ -18,11 +18,10 @@ A base de dados da Fórmula 1 contém um total de 859 pilotos cadastrados, mas n
 -	Williams - Alexander Albon e Carlos Sainz;
 
 
-## Tecnologias Utilizadas
-
-**-    Linguagem:** Python;
-**-    Bibliotecas:** Pandas, Matplotlib, Seaborn, NumPy, Kagglehub, Os, Json e Warnings;
-**-    Ferramentas:** Google Colab.
+## Tecnologias Utilizadas:
+**-   Linguagem:** Python;
+**-   Bibliotecas:** Pandas, Matplotlib, Seaborn, NumPy, Kagglehub, Os, Json e Warnings;
+**-   Ferramentas:** Google Colab.
 
 
 ## Estrutura do Projeto
