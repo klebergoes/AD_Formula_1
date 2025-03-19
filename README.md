@@ -154,6 +154,6 @@ Existem, obviamente, outros fatores que podem ter influenciado a queda de desemp
 
 ### Contato
 
-**-	Autor:** Kleber Goes da Silva
-**-	E-mail:** kleber-goes@hotmail.com
-**-	LinkedIn:** in/kleber-goes-02091990
+-   Autor: Kleber Goes da Silva
+-	E-mail: kleber-goes@hotmail.com
+-	LinkedIn: in/kleber-goes-02091990
