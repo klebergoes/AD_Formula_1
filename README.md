@@ -4,6 +4,18 @@
 
 [Desafio / Problema](#Desafio-/-Problema)
 
+[Tecnologias Utilizadas](#Tecnologias-Utilizadas)
+
+[Estrutura do Projeto](#Estrutura-do-Projeto)
+
+[Conjunto de Dados](#Conjunto-de-Dados)
+
+[Metodologia](#Metodologia)
+
+[Como Executar](#Como-Executar)
+
+[Resultados](#Resultados)
+
 
 ## Desafio / Problema
 
