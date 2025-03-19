@@ -18,7 +18,7 @@ A base de dados da Fórmula 1 contém um total de 859 pilotos cadastrados, mas n
 -	Williams - Alexander Albon e Carlos Sainz;
 
 
-## Tecnologias Utilizadas:
+## Tecnologias Utilizadas
 -   Linguagem: Python;
 -   Bibliotecas: Pandas, Matplotlib, Seaborn, NumPy, Kagglehub, Os, Json e Warnings;
 -   Ferramentas: Google Colab.
@@ -26,37 +26,37 @@ A base de dados da Fórmula 1 contém um total de 859 pilotos cadastrados, mas n
 
 ## Estrutura do Projeto
 
-**- README.md:** Documentação do projeto
-**- Projeto_Formula_1.ipynb:** Notebook usado na análise
+-   README.md: Documentação do projeto
+-   Projeto_Formula_1.ipynb: Notebook usado na análise
 
 
 ## Conjunto de Dados
 
-**- Fonte:** Repositório Kaggle
-**- Dataset:** muhammadehsan02/formula-1-world-championship-history-1950-2024
-**- Formato:** API
-**- Tabelas / Colunas utilizadas:**
-    - Driver_Details: Inclui informações abrangentes sobre os pilotos, como detalhes pessoais, estatísticas de carreira e conquistas:
-      - driverId: Identificador exclusivo para o motorista;
-        - Tipo de Dado: Inteiro
-      - driverRef: Nome de referência para o driver;
-        - Tipo de Dado: String
-    - Race_Results: Fornece resultados detalhados de cada corrida, incluindo posições finais, pontos ganhos e outras métricas importantes:
-      - resultId: Identificador para o resultado da corrida;
-        - Tipo de Dado: Inteiro
-      - driverId: Identificador exclusivo para o motorista;
-        - Tipo de Dado: Inteiro
-      - raceId: Identificador para a corrida;
-        - Tipo de Dado: Inteiro
-      - positionOrder: Ordem de finalização com relação a outros pilotos:
-        - Tipo de Dado: Inteiro
-      - points: Pontos concedidos para a corrida:
-        - Tipo de Dado: Float
-    - Race_Schedule: Lista todas as corridas realizadas de 1950 a 2024, juntamente com detalhes como data, local e nome da corrida:
-      - raceId: Identificador para a corrida;
-        - Tipo de Dado: Inteiro
-      - date: Data da corrida:
-        - Tipo de Dado: String
+-   Fonte: Repositório Kaggle
+-   Dataset: muhammadehsan02/formula-1-world-championship-history-1950-2024
+-   Formato: API
+-   Tabelas / Colunas utilizadas:
+    -   Driver_Details: Inclui informações abrangentes sobre os pilotos, como detalhes pessoais, estatísticas de carreira e conquistas:
+      -   driverId: Identificador exclusivo para o motorista;
+        -   Tipo de Dado: Inteiro
+      -   driverRef: Nome de referência para o driver;
+        -   Tipo de Dado: String
+    -   Race_Results: Fornece resultados detalhados de cada corrida, incluindo posições finais, pontos ganhos e outras métricas importantes:
+      -   resultId: Identificador para o resultado da corrida;
+        -   Tipo de Dado: Inteiro
+      -   driverId: Identificador exclusivo para o motorista;
+        -   Tipo de Dado: Inteiro
+      -   raceId: Identificador para a corrida;
+        -   Tipo de Dado: Inteiro
+      -   positionOrder: Ordem de finalização com relação a outros pilotos:
+        -   Tipo de Dado: Inteiro
+      -   points: Pontos concedidos para a corrida:
+        -   Tipo de Dado: Float
+    -   Race_Schedule: Lista todas as corridas realizadas de 1950 a 2024, juntamente com detalhes como data, local e nome da corrida:
+      -   raceId: Identificador para a corrida;
+        -   Tipo de Dado: Inteiro
+      -   date: Data da corrida:
+        -   Tipo de Dado: String
 
 
 ## Metodologia
