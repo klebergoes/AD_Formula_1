@@ -37,35 +37,35 @@ A base de dados da Fórmula 1 contém um total de 859 pilotos cadastrados, mas n
 -   Formato: API;
 -   Tabelas / Colunas utilizadas:
     -   Driver_Details: Inclui informações abrangentes sobre os pilotos, como detalhes pessoais, estatísticas de carreira e conquistas:
-        -   driverId: Identificador exclusivo para o motorista;
-            -   Tipo de Dado: Inteiro
-        -   driverRef: Nome de referência para o driver;
-            -   Tipo de Dado: String
+        -   driverId: Identificador exclusivo para o motorista:
+            -   Tipo de Dado: Inteiro.
+        -   driverRef: Nome de referência para o driver:
+            -   Tipo de Dado: String.
     -   Race_Results: Fornece resultados detalhados de cada corrida, incluindo posições finais, pontos ganhos e outras métricas importantes:
-        -   resultId: Identificador para o resultado da corrida;
-            -   Tipo de Dado: Inteiro
-        -   driverId: Identificador exclusivo para o motorista;
-            -   Tipo de Dado: Inteiro
-        -   raceId: Identificador para a corrida;
-            -   Tipo de Dado: Inteiro
+        -   resultId: Identificador para o resultado da corrida:
+            -   Tipo de Dado: Inteiro.
+        -   driverId: Identificador exclusivo para o motorista:
+            -   Tipo de Dado: Inteiro.
+        -   raceId: Identificador para a corrida:
+            -   Tipo de Dado: Inteiro.
         -   positionOrder: Ordem de finalização com relação a outros pilotos:
-            -   Tipo de Dado: Inteiro
+            -   Tipo de Dado: Inteiro.
         -   points: Pontos concedidos para a corrida:
-            -   Tipo de Dado: Float
+            -   Tipo de Dado: Float.
     -   Race_Schedule: Lista todas as corridas realizadas de 1950 a 2024, juntamente com detalhes como data, local e nome da corrida:
-        -   raceId: Identificador para a corrida;
-            -   Tipo de Dado: Inteiro
+        -   raceId: Identificador para a corrida:
+            -   Tipo de Dado: Inteiro.
         -   date: Data da corrida:
-            -   Tipo de Dado: String
+            -   Tipo de Dado: String.
 
 
 ## Metodologia
 
-**- Importação pacotes e configuração para consumo de API:** Importação dos pacotes necessários para execução do projeto, além da configuração do ambiente para armazenar as credenciais de acesso ao Kaggle, garantindo a autenticação e a integração com a API para extração de dados;
-**- Coleta de Dados:** Extração dos dados necessários por meio da integração com a API do Kaggle, acessando e obtendo os conjuntos de dados diretamente do repositório online para análise;
-**- Transformação dos dados:** Preparo dos dados para análise;
-**- Exploração dos dados:** Realização de análise exploratória com o uso de estatísticas descritivas, análise temporal e visualizações gráficas, com o objetivo de identificar padrões, tendências, sazonalidades e outliers nos dados;
-**- Conclusão:** Elaboração de um relatório final detalhado, apresentando a análise realizada e justificando a escolha do piloto mais adequado para ser patrocinado, com base nos critérios de desempenho e outros fatores relevantes identificados ao longo da análise.
+-   Importação pacotes e configuração para consumo de API: Importação dos pacotes necessários para execução do projeto, além da configuração do ambiente para armazenar as credenciais de acesso ao Kaggle, garantindo a autenticação e a integração com a API para extração de dados;
+-   Coleta de Dados: Extração dos dados necessários por meio da integração com a API do Kaggle, acessando e obtendo os conjuntos de dados diretamente do repositório online para análise;
+-   Transformação dos dados: Preparo dos dados para análise;
+-   Exploração dos dados: Realização de análise exploratória com o uso de estatísticas descritivas, análise temporal e visualizações gráficas, com o objetivo de identificar padrões, tendências, sazonalidades e outliers nos dados;
+-   Conclusão: Elaboração de um relatório final detalhado, apresentando a análise realizada e justificando a escolha do piloto mais adequado para ser patrocinado, com base nos critérios de desempenho e outros fatores relevantes identificados ao longo da análise.
 
 
 ## Como Executar
@@ -74,8 +74,8 @@ A base de dados da Fórmula 1 contém um total de 859 pilotos cadastrados, mas n
 2. No menu superior, vá até Arquivo > Abrir Notebook;
 3. Na janela que se abrir, clique na aba GitHub;
 4. Preencha os seguintes campos:
-  a. Usuário ou organização: klebergoes;
-  b. Repositório: klebergoes/AD_Formula_1;
+    a. Usuário ou organização: klebergoes;
+    b. Repositório: klebergoes/AD_Formula_1.
 5. Selecione o notebook Projeto_Formula_1.ipynb.
 
 
