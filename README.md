@@ -15,7 +15,7 @@ A base de dados da Fórmula 1 contém um total de 859 pilotos cadastrados, mas n
 -	Mercedes - George Russel e Andrea Kimi Antonelli;
 -	RB - Yuki Tsunoda e Isack Hadjar;
 -	Red Bull - Max Verstappen e Liam Lawson;
--	Williams - Alexander Albon e Carlos Sainz;
+-	Williams - Alexander Albon e Carlos Sainz.
 
 
 ## Tecnologias Utilizadas
@@ -26,15 +26,15 @@ A base de dados da Fórmula 1 contém um total de 859 pilotos cadastrados, mas n
 
 ## Estrutura do Projeto
 
--   README.md: Documentação do projeto
--   Projeto_Formula_1.ipynb: Notebook usado na análise
+-   README.md: Documentação do projeto;
+-   Projeto_Formula_1.ipynb: Notebook usado na análise.
 
 
 ## Conjunto de Dados
 
--   Fonte: Repositório Kaggle
--   Dataset: muhammadehsan02/formula-1-world-championship-history-1950-2024
--   Formato: API
+-   Fonte: Repositório Kaggle;
+-   Dataset: muhammadehsan02/formula-1-world-championship-history-1950-2024;
+-   Formato: API;
 -   Tabelas / Colunas utilizadas:
     -   Driver_Details: Inclui informações abrangentes sobre os pilotos, como detalhes pessoais, estatísticas de carreira e conquistas:
       -   driverId: Identificador exclusivo para o motorista;
