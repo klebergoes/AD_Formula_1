@@ -70,13 +70,13 @@ A base de dados da Fórmula 1 contém um total de 859 pilotos cadastrados, mas n
 
 ## Como Executar
 
-1. Acesse o Google Colab e faça login com suas credenciais;
-2. No menu superior, vá até Arquivo > Abrir Notebook;
-3. Na janela que se abrir, clique na aba GitHub;
-4. Preencha os seguintes campos:
-    a. Usuário ou organização: klebergoes;
-    b. Repositório: klebergoes/AD_Formula_1.
-5. Selecione o notebook Projeto_Formula_1.ipynb.
+1.   Acesse o Google Colab e faça login com suas credenciais;
+2.   No menu superior, vá até Arquivo > Abrir Notebook;
+3.   Na janela que se abrir, clique na aba GitHub;
+4.   Preencha os seguintes campos:
+    a.   Usuário ou organização: klebergoes;
+    b.   Repositório: klebergoes/AD_Formula_1.
+5.   Selecione o notebook Projeto_Formula_1.ipynb.
 
 
 ## Resultados
