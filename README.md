@@ -1,5 +1,10 @@
 # Análise de Performance dos Pilotos Ativos da Fórmula 1
 
+## Sumário
+
+[Desafio / Problema](#Desafio-/-Problema)
+
+
 ## Desafio / Problema
 
 Uma renomada empresa está interessada em investir no patrocínio de um piloto de Fórmula 1 e, para tomar uma decisão estratégica, busca selecionar aquele que tenha apresentado a melhor performance em corridas. Com o objetivo de ajudar na escolha do piloto ideal, fui consultado para fornecer uma análise detalhada e embasada em dados históricos do Campeonato Mundial de Fórmula 1. Para isso, utilizarei abordagens analíticas tanto descritivas quanto de série temporal, a fim de explorar e interpretar o desempenho de pilotos ao longo de várias temporadas. Através dessa análise, pretendo identificar padrões de consistência e evolução no desempenho dos pilotos, permitindo assim sugerir o mais adequado para representar a marca no mundo da Fórmula 1, com base em dados concretos e insights valiosos.
